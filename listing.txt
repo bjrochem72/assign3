@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x    4 bjroche  staff    128  3 Mar 09:37 .
+drwx------@ 366 bjroche  staff  11712  3 Mar 09:37 ..
+-rw-r--r--    1 bjroche  staff      0  3 Mar 09:37 listing
+-rw-r--r--    1 bjroche  staff      0  3 Mar 09:37 listing.txt
